@@ -1,2 +1,2 @@
 # shadowrocket-rules
-shadowrocket direct rules for users
+shadowrocket setting files and direct rules for Chinese users
