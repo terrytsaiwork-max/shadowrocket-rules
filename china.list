@@ -1,6 +1,7 @@
 # NAME: ChinaDirectRulesforShadowrocket
 # GENERATED-BY: china-direct-rules/scripts/build_rules.py
-# UPDATED: 2026-09-15-11:10:25GMT+8
+# UPDATED: $Format:%ci$
+Made by Terry, All rights reserved.
 # SOURCES:
 #   https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/China/China.list
 #   https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/China/China_Domain.list
